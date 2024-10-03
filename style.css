@@ -1,0 +1,11 @@
+  .tweet{
+  border: 2px solid black;
+  }
+
+.img{
+width: 5rem;
+height: 5rem;
+background-color: gold;
+float: right;
+margin-right: 0.5rem;
+}
